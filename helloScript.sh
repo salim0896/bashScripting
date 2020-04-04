@@ -22,4 +22,5 @@ case  $helloScript in
 	6) echo "sweet! Green Latern is as strong as his will";;
 	7) echo "Amazing! Aquaman is the King of the sea";;
 	8) echo "Cool! Martian Man Hunter is super strong";;
+	*) echo "Cmon! that isnt an option!";;
 esac
