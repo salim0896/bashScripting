@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "WHat is your favourtie JL character?"
+echo "WHo is your favourtie JL character?"
 
 echo "1 - Flash"
 echo "2 - Superman"
